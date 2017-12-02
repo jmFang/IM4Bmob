@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="bmob-push-1.0.1">
+    <CLASSES>
+      <root url="jar://D:/software engineering/AndroidSDK/.android/build-cache/4a532714df5dac9b63b3faf8e400c47d5772b74e/output/jars/libs/Bmob_Push_1.0.1_20170907.jar!/" />
+      <root url="file://D:/software engineering/AndroidSDK/.android/build-cache/4a532714df5dac9b63b3faf8e400c47d5772b74e/output/res" />
+      <root url="jar://D:/software engineering/AndroidSDK/.android/build-cache/4a532714df5dac9b63b3faf8e400c47d5772b74e/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

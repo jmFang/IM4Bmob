@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#29BCC3</color>
+    <color name="colorPrimaryDark">#29BCC3</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="base_color_text_black">#3e3e39</color>
+    <color name="base_color_text_gray">#9fa0a0</color>
+    <color name="base_color_text_white">#ffffff</color>
+    <color name="color_theme">#29BCC3</color>
+
+    <color name="color_bottom_bg">#272a2e</color>
+    <color name="color_bottom_text_normal">#cdcdcd</color>
+    <color name="color_bottom_text_press">#29BCC3</color>
+    <color name="text_gray">#969696</color>
+    <color name="msg_chat_bg">#eceff4</color>
+
+    <color name="theme_bg_color">#f0f2f5</color>
+    <color name="c_f98800">#ed4e23</color>
+    <color name="base_bg">#f4f6f6</color>
+    <color name="dialog_color_title">#f82c22</color>
+    <color name="guide_color">#898989</color>
+
+    <color name="common_bg">#fcfcfc</color>
+    <color name="color_99">#999999</color>
+    <color name="color_line">#EEEEEE</color>
+    <color name="color_chat_send_status">#818181</color>
+    <color name="color_msg_system_time_bg">#20000000</color>
+    <color name="color_1e1e1e">#1e1e1e</color>
+    <color name="color_b4">#b4b4b4</color>
+
+    <color name="text_color">#7C7F89</color>
+    <color name="title_color">#50B3FA</color>
+    <color name="line_color">#DDDADFE5</color>
+    <color name="name_color">#F65EA5</color>
+
+    <color name="red">#F44336</color>
+    <color name="dark_red">#F44336</color>
+    <color name="accent_red">#F44336</color>
+
+    <color name="brown">#795548</color>
+    <color name="dark_brown">#795548</color>
+    <color name="accent_brown">#795548</color>
+
+    <color name="blue">#2196F3</color>
+    <color name="dark_blue">#2196F3</color>
+    <color name="accent_blue">#448AFF</color>
+
+    <color name="blue_grey">#607D8B</color>
+    <color name="dark_blue_grey">#607D8B</color>
+    <color name="accent_blue_grey">#607D8B</color>
+
+    <color name="yellow">#FF9800</color>
+    <color name="dark_yellow">#FF9800</color>
+    <color name="accent_yellow">#FF9800</color>
+
+    <color name="deep_purple">#673AB7</color>
+    <color name="dark_deep_purple">#673AB7</color>
+    <color name="accent_deep_purple">#673AB7</color>
+
+    <color name="pink">#E91E63</color>
+    <color name="dark_pink">#E91E63</color>
+    <color name="accent_pink">#E91E63</color>
+
+    <color name="green">#4CAF50</color>
+    <color name="dark_green">#4CAF50</color>
+    <color name="accent_green">#4CAF50</color>
+
+    <color name="actionbar_title_color">@android:color/white</color>
+    <color name="text_red">#ffff4081</color>
+    <color name="light_grey">#ffbebebe</color>
+
+    <color name="black_semi_transparent">#B2000000</color>
+    <color name="text">#FFFFFF</color>
+
+    <color name="black">#000000</color>
+    <color name="black_31">#292E31</color>
+    <color name="black_1818">#181819</color>
+    <color name="black_light_31">#C6292E31</color>
+    <color name="black_8b">#8b8b8b</color>
+    <color name="black_46">#465A67</color>
+    <color name="white">#ffffff</color>
+
+    <color name="transparent">#0000</color>
+    <color name="mask_black">#88000000</color>
+</resources>

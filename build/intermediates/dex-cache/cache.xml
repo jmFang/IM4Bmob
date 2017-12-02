@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\software engineering\AndroidSDK\.android\build-cache\bf7f63eec71be4df6745e39f8def1a3735ee27b3\output\jars\libs\rxjava-1.1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="79f0c1e382e8b62e91064ef6b71130dda83f338e">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\pre-dexed\debug\rxjava-1.1.6_39883d8c7d2e9fa1c3192beb5d2b47104f39429b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c05ed4bfabddc3c12ec12e5b53e43d71bee82189">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_20976bb68d9adfedada281c2d39c69ef68bce67a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\software engineering\AndroidSDK\.android\build-cache\4a532714df5dac9b63b3faf8e400c47d5772b74e\output\jars\libs\Bmob_Push_1.0.1_20170907.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0f2a873ea0db1128909c0c05e0593da0eaa9405a">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\pre-dexed\debug\Bmob_Push_1.0.1_20170907_856c48176ae7a65e0f5afe82c4dc49dac4407c23.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\software engineering\AndroidSDK\.android\build-cache\34e28d5f6cdf979012b8465e6fd6d5a77e45db8c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c06652967cb9c5d3afc8596f467a0f7b334b5c5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\software engineering\AndroidSDK\.android\build-cache\bf7f63eec71be4df6745e39f8def1a3735ee27b3\output\jars\libs\BmobSDK_3.5.7_20170905.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2fcfdf38cebf7112dc67e06092ece1bbe0b7e8e7">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\transforms\dex\debug\folders\1000\10\BmobSDK_3.5.7_20170905_b157b8140c8ebca10e403f6ba38b46051cf0feb4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\software engineering\AndroidSDK\.android\build-cache\ecea1b2bfab561ce7d715069d07316885ab78d95\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ff50f38f68d287129ad0afa8acfb07735b02c685">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_17aeab8c05d88cc9a4eee927f742f38bc6ddfdc2\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\software engineering\AndroidSDK\.android\build-cache\97294fe6a46f3655f99bc225c7fd5ca94243d26e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\pre-dexed\debug\classes_f7424bee9c3d32d23c9ea6e135f76b2fb4b91bdd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\software engineering\AndroidSDK\.android\build-cache\9cc1992d7cc89fcb2ce69a4c400e65612c3e57a9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\pre-dexed\debug\classes_d15faf814e45b0316b149694a9188073d0294c6c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\software engineering\AndroidSDK\.android\build-cache\8fc35a36791cff63d684c669ce466abe46bdd33a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_23a1c72a962abb5664c73a90d80e46c19b253314\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\software engineering\AndroidSDK\.android\build-cache\8a37c65df5c902db2aa869f3f47fba09863c5587\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\pre-dexed\debug\classes_9f96a3fed37d89045c6e4b58e2f1451d99a86fb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\software engineering\AndroidSDK\.android\build-cache\bf7f63eec71be4df6745e39f8def1a3735ee27b3\output\jars\libs\org.apache.http.legacy.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e92e46408a9824fb0d6441d327cf4b74b482b262">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\pre-dexed\debug\org.apache.http.legacy_e27ccc1c808e336cc9976743949dbf69172e8163.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jiamoufang\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\pre-dexed\debug\common-1.0.0_b9ba4f4d832983ea63b58548efa392ed6bd24ff3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\software engineering\AndroidSDK\.android\build-cache\bf7f63eec71be4df6745e39f8def1a3735ee27b3\output\jars\libs\rxandroid-1.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="84127ad71f76445b8215afceb38e8b05f58eafa6">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxandroid-1.2.0_e7b7922f77f4e3d49a0934567d194ad7f39cd965\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\software engineering\AndroidSDK\.android\build-cache\b4ce12cb9ac6b7c0bc46f7ccdd00bf05b58e3ce3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_eff4f8395a99596c707771f54cf78a15ff823422\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\software engineering\AndroidSDK\.android\build-cache\a72095ea3c446c92a013c8bf67127f7183044111\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_acf023e3ceb398359656665d0c7ef332285edf1d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\software engineering\AndroidSDK\.android\build-cache\a9ae0bab0db2b1bab4fc0aa5f7fd1c6358b69ce8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\pre-dexed\debug\classes_3db236ecc1daae75a233ac237a6669c27bbf14b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\software engineering\AndroidSDK\.android\build-cache\bf7f63eec71be4df6745e39f8def1a3735ee27b3\output\jars\libs\okio-1.12.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c65ee0a604ff98ecaed12b7dccad20fd959026a3">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\pre-dexed\debug\okio-1.12.0_8ec0c5f6cd6eb2f12421323d289225ce80a6fb85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jiamoufang\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\pre-dexed\debug\support-annotations-26.1.0_c37ce41ba39a793d531ea8cd2142daf6b7390240.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\software engineering\AndroidSDK\.android\build-cache\3fed964c8e60a8af31b03f3021477500c67ee2bd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\pre-dexed\debug\classes_8c9166129cdbae96d1f31eb668ac57d01763e62d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\software engineering\AndroidSDK\.android\build-cache\4a532714df5dac9b63b3faf8e400c47d5772b74e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e70df0424507d414083df7a5b3c10341c75a54e3">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_96eba64e921eca9f3f200976cc3f475f13e1df36\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jiamoufang\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\pre-dexed\debug\eventbus-3.0.0_0e93491a42b696ed3deebb575016dfb6f44aab4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\software engineering\AndroidSDK\.android\build-cache\bf7f63eec71be4df6745e39f8def1a3735ee27b3\output\jars\libs\gson-2.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cea3a9be08d0dcf89783b2cc87c8787fdb2a0d12">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\pre-dexed\debug\gson-2.6.2_6f73e8fac4c89059a913fc915da8b5c09b98651a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\libs\universal-image-loader-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.9.5_d33a441248cacd7d70247942e4bbf01e1a4c608d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\software engineering\AndroidSDK\.android\build-cache\9ea2f91890770ad1beccd1458171a0f616d52cca\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b4d6fbbb48b42dd03fd9c5a09b3b7a53266df6ed">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\pre-dexed\debug\classes_9f561e78256d7fd67f7544124c5e56e2d3be041f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jiamoufang\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\pre-dexed\debug\common-1.0.0_ddcb6cb0d9951fd0eb640ec44f3c0cc6a33ddcc0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\software engineering\AndroidSDK\.android\build-cache\b86f66264222f138e72f1b54fac34d1b69221488\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\pre-dexed\debug\classes_4373bd825edd22189c7156ff224a97c6c4ff3472.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\software engineering\AndroidSDK\.android\build-cache\30d666b847d44f6d5f3ec4d9cf3d65717da481af\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\pre-dexed\debug\classes_7048ded69f15efcf4e64fdf129da531b822ac136.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\software engineering\AndroidSDK\.android\build-cache\ecea1b2bfab561ce7d715069d07316885ab78d95\output\jars\libs\BmobNewIM_2.0.9_20170731.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0b5a1d5467bc2aef6db247d5d068608a7370b49a">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\pre-dexed\debug\BmobNewIM_2.0.9_20170731_32fb247216d4983826244863a29cbc909272ce9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jiamoufang\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1_caeaea5f76d8d5e065c4632b180743bfbf974dbe.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\software engineering\AndroidSDK\.android\build-cache\d8be24f09bde23d52ae10cc64c2097531f0c8c23\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b6c9a42fe657be552eee3a10b9113339ecd90677\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\software engineering\AndroidSDK\.android\build-cache\bf7f63eec71be4df6745e39f8def1a3735ee27b3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="34970e22c5f716c1d32ea18bac13bbe9abc3773a">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_290da6ea63a5e3754dbd0d59ce15ec2c0a874e13\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\software engineering\AndroidSDK\.android\build-cache\195618250d37363d5714aef9252a3682c79a6c00\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\pre-dexed\debug\classes_d9efcfb1aa8f6cf5498a6e198883f2989a89235f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jiamoufang\.gradle\caches\modules-2\files-2.1\com.github.promeg\tinypinyin\1.0.0\a48301534bbc8eea481f61fa8fbdee80eca49d15\tinypinyin-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a48301534bbc8eea481f61fa8fbdee80eca49d15">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\transforms\dex\debug\folders\1000\10\tinypinyin-1.0.0_1200645d64176eb432c65f8f0ae986e2451de61d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\software engineering\AndroidSDK\.android\build-cache\7d62eb90337a91428fc2724880f50130014e53e2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\pre-dexed\debug\classes_f1e0c62fe52c0f5085f46d34c5592423dd8170aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\software engineering\AndroidSDK\.android\build-cache\ecea1b2bfab561ce7d715069d07316885ab78d95\output\jars\libs\androidasync-2.1.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e467ee6149cd47eff052f22b1db011048726adc9">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\pre-dexed\debug\androidasync-2.1.6_9948e3cee4266a6033a5e8849c19e6868388d0f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\software engineering\AndroidSDK\.android\build-cache\8fc35a36791cff63d684c669ce466abe46bdd33a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\pre-dexed\debug\classes_23a1c72a962abb5664c73a90d80e46c19b253314.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jiamoufang\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_044df6548c93f4b5edb0d3fe4a627a570666e7ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\software engineering\AndroidSDK\.android\build-cache\bf7f63eec71be4df6745e39f8def1a3735ee27b3\output\jars\libs\rxjava-1.1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="79f0c1e382e8b62e91064ef6b71130dda83f338e">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-1.1.6_39883d8c7d2e9fa1c3192beb5d2b47104f39429b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\software engineering\AndroidSDK\.android\build-cache\34e28d5f6cdf979012b8465e6fd6d5a77e45db8c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\pre-dexed\debug\classes_c06652967cb9c5d3afc8596f467a0f7b334b5c5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\software engineering\AndroidSDK\.android\build-cache\ecea1b2bfab561ce7d715069d07316885ab78d95\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ff50f38f68d287129ad0afa8acfb07735b02c685">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\pre-dexed\debug\classes_17aeab8c05d88cc9a4eee927f742f38bc6ddfdc2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\software engineering\AndroidSDK\.android\build-cache\4a532714df5dac9b63b3faf8e400c47d5772b74e\output\jars\libs\Bmob_Push_1.0.1_20170907.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0f2a873ea0db1128909c0c05e0593da0eaa9405a">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\transforms\dex\debug\folders\1000\10\Bmob_Push_1.0.1_20170907_856c48176ae7a65e0f5afe82c4dc49dac4407c23\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\software engineering\AndroidSDK\.android\build-cache\9cc1992d7cc89fcb2ce69a4c400e65612c3e57a9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d15faf814e45b0316b149694a9188073d0294c6c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\software engineering\AndroidSDK\.android\build-cache\8a37c65df5c902db2aa869f3f47fba09863c5587\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9f96a3fed37d89045c6e4b58e2f1451d99a86fb3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\software engineering\AndroidSDK\.android\build-cache\97294fe6a46f3655f99bc225c7fd5ca94243d26e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f7424bee9c3d32d23c9ea6e135f76b2fb4b91bdd\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\software engineering\AndroidSDK\.android\build-cache\bf7f63eec71be4df6745e39f8def1a3735ee27b3\output\jars\libs\BmobSDK_3.5.7_20170905.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2fcfdf38cebf7112dc67e06092ece1bbe0b7e8e7">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\pre-dexed\debug\BmobSDK_3.5.7_20170905_b157b8140c8ebca10e403f6ba38b46051cf0feb4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\software engineering\AndroidSDK\.android\build-cache\bf7f63eec71be4df6745e39f8def1a3735ee27b3\output\jars\libs\org.apache.http.legacy.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e92e46408a9824fb0d6441d327cf4b74b482b262">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\transforms\dex\debug\folders\1000\10\org.apache.http.legacy_e27ccc1c808e336cc9976743949dbf69172e8163\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\software engineering\AndroidSDK\.android\build-cache\a9ae0bab0db2b1bab4fc0aa5f7fd1c6358b69ce8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3db236ecc1daae75a233ac237a6669c27bbf14b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jiamoufang\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.0.0_b9ba4f4d832983ea63b58548efa392ed6bd24ff3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\software engineering\AndroidSDK\.android\build-cache\bf7f63eec71be4df6745e39f8def1a3735ee27b3\output\jars\libs\okio-1.12.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c65ee0a604ff98ecaed12b7dccad20fd959026a3">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.12.0_8ec0c5f6cd6eb2f12421323d289225ce80a6fb85\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\software engineering\AndroidSDK\.android\build-cache\bf7f63eec71be4df6745e39f8def1a3735ee27b3\output\jars\libs\rxandroid-1.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="84127ad71f76445b8215afceb38e8b05f58eafa6">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\pre-dexed\debug\rxandroid-1.2.0_e7b7922f77f4e3d49a0934567d194ad7f39cd965.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\software engineering\AndroidSDK\.android\build-cache\de4901f206b05329dcdc8c5bb9f54d4c6bef1773\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="109f0ec452925b46b500e8d28ee2cd2d1a0145a9">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\pre-dexed\debug\classes_467a38e2eb2cb1b25c72077fe5d473815222aa4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\software engineering\AndroidSDK\.android\build-cache\b4ce12cb9ac6b7c0bc46f7ccdd00bf05b58e3ce3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\pre-dexed\debug\classes_eff4f8395a99596c707771f54cf78a15ff823422.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\software engineering\AndroidSDK\.android\build-cache\3fed964c8e60a8af31b03f3021477500c67ee2bd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8c9166129cdbae96d1f31eb668ac57d01763e62d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\software engineering\AndroidSDK\.android\build-cache\bf7f63eec71be4df6745e39f8def1a3735ee27b3\output\jars\libs\gson-2.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cea3a9be08d0dcf89783b2cc87c8787fdb2a0d12">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.6.2_6f73e8fac4c89059a913fc915da8b5c09b98651a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\software engineering\AndroidSDK\.android\build-cache\4a532714df5dac9b63b3faf8e400c47d5772b74e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e70df0424507d414083df7a5b3c10341c75a54e3">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\pre-dexed\debug\classes_96eba64e921eca9f3f200976cc3f475f13e1df36.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\software engineering\AndroidSDK\.android\build-cache\de4901f206b05329dcdc8c5bb9f54d4c6bef1773\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="109f0ec452925b46b500e8d28ee2cd2d1a0145a9">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_467a38e2eb2cb1b25c72077fe5d473815222aa4e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jiamoufang\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.1.0_c37ce41ba39a793d531ea8cd2142daf6b7390240\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jiamoufang\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\transforms\dex\debug\folders\1000\10\eventbus-3.0.0_0e93491a42b696ed3deebb575016dfb6f44aab4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\software engineering\AndroidSDK\.android\build-cache\b86f66264222f138e72f1b54fac34d1b69221488\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4373bd825edd22189c7156ff224a97c6c4ff3472\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\software engineering\AndroidSDK\.android\build-cache\30d666b847d44f6d5f3ec4d9cf3d65717da481af\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7048ded69f15efcf4e64fdf129da531b822ac136\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jiamoufang\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.0.0_ddcb6cb0d9951fd0eb640ec44f3c0cc6a33ddcc0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\software engineering\AndroidSDK\.android\build-cache\9ea2f91890770ad1beccd1458171a0f616d52cca\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b4d6fbbb48b42dd03fd9c5a09b3b7a53266df6ed">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9f561e78256d7fd67f7544124c5e56e2d3be041f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\software engineering\AndroidSDK\.android\build-cache\195618250d37363d5714aef9252a3682c79a6c00\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d9efcfb1aa8f6cf5498a6e198883f2989a89235f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\software engineering\AndroidSDK\.android\build-cache\bf7f63eec71be4df6745e39f8def1a3735ee27b3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="34970e22c5f716c1d32ea18bac13bbe9abc3773a">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\pre-dexed\debug\classes_290da6ea63a5e3754dbd0d59ce15ec2c0a874e13.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\software engineering\AndroidSDK\.android\build-cache\ecea1b2bfab561ce7d715069d07316885ab78d95\output\jars\libs\BmobNewIM_2.0.9_20170731.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0b5a1d5467bc2aef6db247d5d068608a7370b49a">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\transforms\dex\debug\folders\1000\10\BmobNewIM_2.0.9_20170731_32fb247216d4983826244863a29cbc909272ce9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\software engineering\AndroidSDK\.android\build-cache\7d62eb90337a91428fc2724880f50130014e53e2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f1e0c62fe52c0f5085f46d34c5592423dd8170aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\jiamoufang\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-7.0.1_caeaea5f76d8d5e065c4632b180743bfbf974dbe\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\software engineering\AndroidSDK\.android\build-cache\d8be24f09bde23d52ae10cc64c2097531f0c8c23\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\pre-dexed\debug\classes_b6c9a42fe657be552eee3a10b9113339ecd90677.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\libs\universal-image-loader-1.9.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.5_d33a441248cacd7d70247942e4bbf01e1a4c608d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\software engineering\AndroidSDK\.android\build-cache\ecea1b2bfab561ce7d715069d07316885ab78d95\output\jars\libs\androidasync-2.1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e467ee6149cd47eff052f22b1db011048726adc9">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\transforms\dex\debug\folders\1000\10\androidasync-2.1.6_9948e3cee4266a6033a5e8849c19e6868388d0f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_2772c90c9f6f70488b1a7e232fc293b8bf2c00f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jiamoufang\.gradle\caches\modules-2\files-2.1\com.github.promeg\tinypinyin\1.0.0\a48301534bbc8eea481f61fa8fbdee80eca49d15\tinypinyin-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a48301534bbc8eea481f61fa8fbdee80eca49d15">
+        <dex dex="D:\AndroidDevelopmentWorkSpace\MiUIM\IM4Bmob\app\build\intermediates\pre-dexed\debug\tinypinyin-1.0.0_1200645d64176eb432c65f8f0ae986e2451de61d.jar" />
+    </item>
+
+</items>

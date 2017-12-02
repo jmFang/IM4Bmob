@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.ego.im4bmob.ui.image_selector.multi_image_selector.view.SquareFrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.ego.im4bmob.ui.image_selector.multi_image_selector.view.SquaredImageView
+        android:id="@+id/image"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerInside"
+        android:src="@drawable/default_error"/>
+
+    <View
+        android:id="@+id/mask"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#88000000"
+        android:visibility="gone"/>
+
+    <TextView
+        android:id="@+id/checkmark"
+        android:layout_width="22dp"
+        android:layout_height="22dp"
+        android:layout_gravity="top|right"
+        android:layout_marginRight="3dp"
+        android:layout_marginTop="3dp"
+        android:background="@drawable/un_check_mark_oval"
+        android:gravity="center"
+        android:textColor="#fff"
+        />
+
+</com.ego.im4bmob.ui.image_selector.multi_image_selector.view.SquareFrameLayout>
