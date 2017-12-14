@@ -53,7 +53,10 @@ Java设计模式之策略模式（Strategy）：http://www.cnblogs.com/whoislcj/
 
 Android动画效果之自定义ViewGroup添加布局动画：http://www.cnblogs.com/whoislcj/p/5802899.html
 
+活动切换动画效果：http://hukai.me/android-training-course-in-chinese/material/get-started.html
 
-### 分页查询
-Demo源码（https://github.com/bmob/bmob-android-demo-paging），查看如何使用分页查询，结合ListView开发下拉刷新查看更多内容的应用。
+自定义动画（触摸效果，切换效果）：http://hukai.me/android-training-course-in-chinese/material/animations.html
+
+### Tabs
+使用Tabs创建Swipe视图: http://hukai.me/android-training-course-in-chinese/ux/implement-nav/lateral.html
 
