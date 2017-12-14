@@ -66,3 +66,5 @@ Android动画效果之自定义ViewGroup添加布局动画：http://www.cnblogs.
 ### Tabs
 使用Tabs创建Swipe视图: http://hukai.me/android-training-course-in-chinese/ux/implement-nav/lateral.html
 
+使用Fragment建立动态UI：http://hukai.me/android-training-course-in-chinese/basics/fragments/index.html
+
