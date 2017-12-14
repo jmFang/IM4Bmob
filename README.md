@@ -68,3 +68,5 @@ Android动画效果之自定义ViewGroup添加布局动画：http://www.cnblogs.
 
 使用Fragment建立动态UI：http://hukai.me/android-training-course-in-chinese/basics/fragments/index.html
 
+郭霖博客-Fragment一点通;http://blog.csdn.net/guolin_blog/article/details/8881711
+
