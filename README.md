@@ -7,7 +7,13 @@
 
 ## 参考资料
 
+ANDROID学习之路： http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/
+
+### 注解
+
 Android注解使用之ButterKnife 8.0注解使用介绍：https://www.cnblogs.com/whoislcj/p/5620128.html
+
+### 架构
 
 Android学习探索之运用MVP设计模式实现项目解耦：http://www.cnblogs.com/whoislcj/p/6646925.html
 
